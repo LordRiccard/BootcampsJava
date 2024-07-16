@@ -2,8 +2,6 @@
 ```mermaid
 classDiagram
     class ReprodutorMusical {
-        -estadoAtual : int
-        -musicaAtual : String
         +tocar()  int
         +pausar() int
         +selecionarMusica(String musica) void
@@ -15,13 +13,12 @@ classDiagram
         +ligar(String numero) void
         +atender() void
         +iniciarCorreioVoz() void
-        -buscarNosContatos() void
-        -salvarNosContatos(String numero) void
+        +buscarNosContatos(String numero) String
+        +salvarNosContatos(String numero) void
     }
     <<interface>> AparelhoTelefonico
 
     class NavegadorInternet {
-        -urls : String[]
         +exibirPagina(String url) void
         +adicionarNovaAba() String
         +atualizarPagina() void
