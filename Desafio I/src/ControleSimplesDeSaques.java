@@ -8,7 +8,7 @@ public class ControleSimplesDeSaques {
         double limiteDiario = scanner.nextDouble();
 
         // Loop for para iterar sobre os saques
-        for (int i = 1; ; i++) {
+        while (true) {
 
             double valorSaque = scanner.nextDouble();
 
