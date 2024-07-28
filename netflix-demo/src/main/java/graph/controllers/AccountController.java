@@ -11,31 +11,31 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import graph.domain.models.User;
-import graph.services.UserService;
+import graph.domain.models.Account;
+import graph.services.AccountService;
 
 @RestController
 @RequestMapping("/user")
-public class UserController {
+public class AccountController {
 
     @Autowired
-    private UserService service;
+    private AccountService service;
 
     @PostMapping
-    public ResponseEntity<User> create (@RequestBody User user) {
-        service.create(user);
-        return ResponseEntity.ok(user);
+    public ResponseEntity<Account> create (@RequestBody Account account) {
+        service.create(account);
+        return ResponseEntity.ok(account);
     }
 
 	@GetMapping("/{id}")
-	public ResponseEntity<User> searchById (@PathVariable Integer id) {
+	public ResponseEntity<Account> searchById (@PathVariable Integer id) {
 		return ResponseEntity.ok(service.findById(id));
 	}
     
 	@PutMapping("/{id}")
-	public ResponseEntity<User> atualizar(@PathVariable Integer id, @RequestBody User user) {
-		service.update(id, user);
-		return ResponseEntity.ok(user);
+	public ResponseEntity<Account> atualizar(@PathVariable Integer id, @RequestBody Account account) {
+		service.update(id, account);
+		return ResponseEntity.ok(account);
 	}
 
 	@DeleteMapping("/{id}")

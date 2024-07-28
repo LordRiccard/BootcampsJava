@@ -11,31 +11,31 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import graph.domain.models.User;
-import graph.services.UserService;
+import graph.domain.models.WatchedByUser;
+import graph.services.WatchedByUserService;
 
 @RestController
-@RequestMapping("/user")
-public class UserController {
+@RequestMapping("/watched")
+public class WatchedByUserController {
 
     @Autowired
-    private UserService service;
+    private WatchedByUserService service;
 
     @PostMapping
-    public ResponseEntity<User> create (@RequestBody User user) {
-        service.create(user);
-        return ResponseEntity.ok(user);
+    public ResponseEntity<WatchedByUser> create (@RequestBody WatchedByUser watched) {
+        service.create(watched);
+        return ResponseEntity.ok(watched);
     }
 
 	@GetMapping("/{id}")
-	public ResponseEntity<User> searchById (@PathVariable Integer id) {
+	public ResponseEntity<WatchedByUser> searchById (@PathVariable Integer id) {
 		return ResponseEntity.ok(service.findById(id));
 	}
     
 	@PutMapping("/{id}")
-	public ResponseEntity<User> atualizar(@PathVariable Integer id, @RequestBody User user) {
-		service.update(id, user);
-		return ResponseEntity.ok(user);
+	public ResponseEntity<WatchedByUser> atualizar(@PathVariable Integer id, @RequestBody WatchedByUser watched) {
+		service.update(id, watched);
+		return ResponseEntity.ok(watched);
 	}
 
 	@DeleteMapping("/{id}")

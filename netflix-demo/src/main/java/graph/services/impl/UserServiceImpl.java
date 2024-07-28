@@ -20,5 +20,15 @@ public class UserServiceImpl implements UserService {
         return repo.findById(id).get();
     }
 
+    @Override
+    public void update(Integer id, User user){
+        repo.save(repo.findById(id).get());
+    }
+
+    @Override
+    public void delete(Integer id){
+        repo.deleteById(id);
+    }
+
     
 }

@@ -11,31 +11,31 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import graph.domain.models.User;
-import graph.services.UserService;
+import graph.domain.models.Video;
+import graph.services.VideoService;
 
 @RestController
 @RequestMapping("/user")
-public class UserController {
+public class VideoController {
 
     @Autowired
-    private UserService service;
+    private VideoService service;
 
     @PostMapping
-    public ResponseEntity<User> create (@RequestBody User user) {
-        service.create(user);
-        return ResponseEntity.ok(user);
+    public ResponseEntity<Video> create (@RequestBody Video video) {
+        service.create(video);
+        return ResponseEntity.ok(video);
     }
 
 	@GetMapping("/{id}")
-	public ResponseEntity<User> searchById (@PathVariable Integer id) {
+	public ResponseEntity<Video> searchById (@PathVariable Integer id) {
 		return ResponseEntity.ok(service.findById(id));
 	}
     
 	@PutMapping("/{id}")
-	public ResponseEntity<User> atualizar(@PathVariable Integer id, @RequestBody User user) {
-		service.update(id, user);
-		return ResponseEntity.ok(user);
+	public ResponseEntity<Video> atualizar(@PathVariable Integer id, @RequestBody Video video) {
+		service.update(id, video);
+		return ResponseEntity.ok(video);
 	}
 
 	@DeleteMapping("/{id}")
