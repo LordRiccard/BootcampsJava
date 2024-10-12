@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c574a5b-3c1a-4084-bb50-6fd616555be7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/DIO-Trilha-Java-Basico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/.idea/Desafio 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/src/MeetingScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 1/src/ProjectEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Desafio 2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContaBanco/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/ContaBanco/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContaBanco/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/ContaBanco/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContaBanco/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/ContaBanco/src/ContaTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/src/ControleSimplesDeSaques.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/src/ControleSimplesDeSaques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/src/SimulacaoBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/src/SimulacaoBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/src/VerificacaoChequeEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/src/VerificacaoChequeEspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/src/VerificadorElegibilidadeConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/src/VerificadorElegibilidadeConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio I/src/VerificadorNumeroConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio I/src/VerificadorNumeroConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/Cofre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/Cofre.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/CofreDigital.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/CofreDigital.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/CofreFisico.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/CofreFisico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/ContaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/ContaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/ContaPoupanca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/ContaPoupanca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/Desafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/DesafioII.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/DesafioII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/MainContaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/MainContaBancaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/RegistroTransacoesBancarias.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/RegistroTransacoesBancarias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/RegistroTransacoesComStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/RegistroTransacoesComStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/bin/Transacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/bin/Transacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/src/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/src/Desafio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/src/DesafioII.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/src/DesafioII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/src/MainContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/src/MainContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/src/RegistroTransacoesBancarias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/src/RegistroTransacoesBancarias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desafio II/src/RegistroTransacoesComStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Desafio II/src/RegistroTransacoesComStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesafioControleFluxo/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/DesafioControleFluxo/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesafioControleFluxo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/DesafioControleFluxo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesafioControleFluxo/src/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/DesafioControleFluxo/src/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DesafioControleFluxo/src/ParametrosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/DesafioControleFluxo/src/ParametrosInvalidosException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/DiagramaClasse.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/DiagramaClasse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/implementação/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/implementação/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/AparelhoTelefonico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/AparelhoTelefonico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/NavegadorInternet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/NavegadorInternet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/ReprodutorMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/Iphone e UML/Implementação/src/edu/developer/implementacaoIphone/modelos/ReprodutorMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/dominio/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/src/main/java/edu/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/src/main/java/edu/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/dominio/Bootcamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/dominio/Bootcamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/dominio/Conteudo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/dominio/Conteudo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/dominio/Dev.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/dominio/Dev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstracao/target/classes/edu/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/abstracao/target/classes/edu/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/classes/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/classes/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/classes/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/classes/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/contas/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/contas/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/contas/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/contas/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/contas/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/contas/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/erros/IdadeInvalida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/erros/IdadeInvalida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/erros/SaldoInvalido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/erros/SaldoInvalido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/erros/ValorInvalido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/erros/ValorInvalido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/src/main/java/edu/banco/interfaces/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/src/main/java/edu/banco/interfaces/IConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/classes/Banco.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/classes/Banco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/classes/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/classes/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/contas/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/contas/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/contas/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/contas/ContaCorrente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/contas/ContaPoupanca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/contas/ContaPoupanca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/erros/IdadeInvalida.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/erros/IdadeInvalida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/erros/SaldoInvalido.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/erros/SaldoInvalido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/erros/ValorInvalido.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/erros/ValorInvalido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bancodigital/target/classes/edu/banco/interfaces/IConta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/bancodigital/target/classes/edu/banco/interfaces/IConta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/NetflixDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/NetflixDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/controllers/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/controllers/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/controllers/VideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/controllers/VideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/controllers/WatchedByUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/controllers/WatchedByUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/models/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/models/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/models/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/models/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/models/WatchedByUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/models/WatchedByUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/repositories/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/repositories/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/repositories/VideoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/repositories/VideoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/domain/repositories/WatchedByUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/domain/repositories/WatchedByUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/VideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/VideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/WatchedByUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/WatchedByUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/impl/VideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/java/graph/services/impl/WatchedByUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/java/graph/services/impl/WatchedByUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../netflix-demo/src/test/java/graph/NetflixDemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/netflix-demo/src/test/java/graph/NetflixDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/ProjetoSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/ProjetoSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/controller/ClienteRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/controller/ClienteRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/controller/ImoveisAlugadosRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/controller/ImoveisAlugadosRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/controller/ImovelRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/controller/ImovelRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/models/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/models/ImoveisAlugados.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/models/ImoveisAlugados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/models/Imovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/models/Imovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/repositories/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/repositories/ClienteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/repositories/ImoveisAlugadosRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/repositories/ImoveisAlugadosRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/repositories/ImovelRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/repositories/ImovelRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/ImoveisAlugadosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/ImoveisAlugadosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/ImovelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/ImovelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/impl/ClienteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/impl/ClienteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/impl/ImoveisAlugadosServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/impl/ImoveisAlugadosServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/java/impl/services/impl/ImovelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/java/impl/services/impl/ImovelServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projeto-spring/src/test/java/impl/ProjetoSpringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bootcamp Java Santander/projeto-spring/src/test/java/impl/ProjetoSpringApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2nJWrJvToxcDDQ79B1WQBQ685yP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ricmo/Documents/DIO-Trilha-Java-Basico/Bootcamp Cloud Cognizant/Desafio 2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c574a5b-3c1a-4084-bb50-6fd616555be7" name="Changes" comment="" />
+      <created>1728691858773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728691858773</updated>
+    </task>
+    <servers />
+  </component>
+</project>
